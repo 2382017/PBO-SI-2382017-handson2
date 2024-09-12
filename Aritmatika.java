@@ -9,6 +9,5 @@ public class Aritmatika {
         System.out.println(x / y); //5
         System.out.println(x % y); //0
 
-
     }
 }

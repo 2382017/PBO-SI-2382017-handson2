@@ -21,6 +21,7 @@ public class Assigment {
         System.out.println(d);
 
         int e = 10;
-        e
+        e %= 2;//e = e %2
+        System.out.println(e);
     }
 }

@@ -17,6 +17,5 @@ public class Perbandingan {
         System.out.println(nilai >= minimumkelulusan);
         //lebih kecil samadengan
         System.out.println(nilai <= minimumkelulusan);
-
     }
 }

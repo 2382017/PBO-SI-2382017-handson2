@@ -5,6 +5,10 @@ public class Logika {
 
         //AND
         boolean hasil = a && b;
-        System.out.println();
+        System.out.println(hasil);
+
+        // DR
+        hasil = a || b;
+        System.out.println(hasil);
     }
 }
