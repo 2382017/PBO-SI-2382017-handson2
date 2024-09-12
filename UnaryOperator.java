@@ -18,6 +18,5 @@ public class UnaryOperator {
         //Logical Not
         boolean isTrue = true;
         //System.out.println(isTrue);
-
     }
 }

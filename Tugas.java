@@ -7,16 +7,12 @@ public class Tugas {
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         System.out.print("Masukkan angka pertama: ");
-        int angka1 = scanner.nextInt();
-        System.out.print("Masukkan angka kedua: ");
         int angka2 = scanner.nextInt();
-
-        int nilaiTerbesar = (angka1 > angka2) ? angka1 : angka2;
-
+        System.out.print("Masukkan angka kedua: ");
+        int angka4 = scanner.nextInt();
+        int nilaiTerbesar = (angka2 > angka4) ? angka2 : angka4;
         System.out.println("Nilai yang paling besar adalah: " + nilaiTerbesar);
-
         scanner.close();
     }
 }

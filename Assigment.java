@@ -1,7 +1,7 @@
 public class Assigment {
     public static void main(String[] args) {
         //1. Assigment sederhana
-        int x 10;
+        int x = 10;
         String fullname = "raweli jaiang naibaho";
         //2.Assigment Aritmatika
         int a = 5;
